@@ -10,4 +10,4 @@ int main(void) {
     scanf("%i", &num);
     printf("O numero que você digitou e: %s", (num%2==0?"PAR":"IMPAR"));
 
-}
+} 
